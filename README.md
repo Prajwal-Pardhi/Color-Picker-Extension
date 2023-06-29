@@ -25,4 +25,15 @@ To install the Color Picker Extension, follow these steps:
 3. Click on the "Pick color" button to start the color picker.
 4. Hover and click over any element on the web page to select a color.
 5. The picked color gets displayed in the box along with its color code.
-6. Also the same color code gets copied to your clipboard for further use-cases.
+6. Also the same color code gets copied to your clipboard for further use cases.
+
+## Contact
+For any inquiries or feedback regarding the DSA Search Engine project, please contact:
+
+
+  Prajwal Pardhi
+  
+  prajwalpardhi2003@gmail.com
+  
+  https://github.com/Prajwal-Pardhi
+
