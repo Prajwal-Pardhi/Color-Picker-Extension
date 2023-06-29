@@ -4,9 +4,9 @@ The Color Picker Extension is a browser extension that allows users to easily pi
 
 ## Features
 
-- **Color Picker Tool:** Use the color picker tool to select any color on a web page by clicking or hovering over it.
-- **Color Information:** Get information about the selected color and its RGB values.
-- **Export Colors:** Color code gets copied to your clipboard when clicked on any color
+- **Color Picker Tool:** Use the color picker tool to select any color on a web page by clicking over it.
+- **Color Information:** Get the color code of the selected color.
+- **Export Color:** Color code gets copied to your clipboard when clicked on any color.
 
 ## Installation
 
@@ -22,7 +22,7 @@ To install the Color Picker Extension, follow these steps:
 
 1. Open a web page in your browser.
 2. Click on the Color Picker Extension icon in the browser toolbar to activate the color picker tool.
-3. Click on pick color button to start the color picker.
+3. Click on the "Pick color" button to start the color picker.
 4. Hover and click over any element on the web page to select a color.
-5. The picked color gets displayd in the box along with its color-code.
-6. Also the same color code gets copied to your clipboard for further usecase.
+5. The picked color gets displayed in the box along with its color code.
+6. Also the same color code gets copied to your clipboard for further use-cases.
